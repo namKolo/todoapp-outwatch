@@ -1,0 +1,11 @@
+# OS cache files
+.DS_Store
+
+# IDE files
+/.idea/
+
+# Build files
+target/
+
+# To maintain directory structure
+!.keep
